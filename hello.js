@@ -69,7 +69,7 @@ option = {
                 {name: '湖南',value: 999},
                 {name: '江西',value: 1},
                 {name: '安徽',value: 1},
-                {name: '云南',value: 1},
+                {name: '云南',value: 0},
                 {name: '广东',value: 999},
                 {name: '福建',value: 0},
                 {name: '广西',value: 1},
