@@ -1,0 +1,17 @@
+
+.body{
+    height: 100%; 
+    background-color: #10aeb5;
+    
+}
+
+.c1{
+    background: #f8f9fa;
+    width:750px;
+    height: 580px;
+    left: 50%;
+    margin-left: -375px;
+    position:absolute;
+
+}
+
