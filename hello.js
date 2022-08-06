@@ -4,8 +4,8 @@ var app = {};
 option = null;
 option = {
     title: {
-        text: '东转转西转转',
-       subtext:'我去过的那些地方',
+        text: '小刘的世界',
+       subtext:'今天天气正好',
         left: 'center',
     },
     tooltip: {
